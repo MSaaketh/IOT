@@ -6,4 +6,5 @@ Comparing the functions of the device in the past to the functions of the device
 .The device I have chosen is thermostat
 
 IoT_HOME_Automation using nodemcu
+
 Controling 4 devices(easily expandable upto 16) in home using webpage designed using arduino ide
